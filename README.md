@@ -1,7 +1,7 @@
 <header>
      <div align="center"
   <p>
-  <b>Olá! Meu nome é Célio Cleiton e sou um Desenvolvedor Front-end Jr ⚛
+  <b>Olá! Meu nome é Célio Cleiton e sou um Developer FullStack ⚛
     <br>
    </b>
   <br>
